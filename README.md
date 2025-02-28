@@ -7,7 +7,7 @@
 <p>📍 Based in South Korea </p>
 
 
-<h3 align="left">Connect with me:</h3>
+<p align="left">Connect with me:</p>
 <p align="left">
 <a href="https://twitter.com/coconie14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="coconie14" height="30" width="40" /></a>
 </p>
