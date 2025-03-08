@@ -1,10 +1,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coconie14&label=Profile%20views&color=0e75b6&style=flat" alt="coconie14" /> </p>
 
 <h1 align="left">Hi 👋, I'm Siyeun Yoo</h1>
+<p>📍 Based in South Korea </p>
 <p>🎓 Software Engineering student</p>
 <p>💡 Aspiring Frontend Developer</p> 
 <p>🚀 Learning JavaScript, React, and TypeScript</p>
-<p>📍 Based in South Korea </p>
+
 
 
 <p align="center">Languages and Tools:</p>
